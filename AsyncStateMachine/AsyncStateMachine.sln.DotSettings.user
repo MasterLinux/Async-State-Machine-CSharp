@@ -1,0 +1,5 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/ContinuousTesting/SnapshotLocation/@EntryValue">C:\Users\Christoph\AppData\Local\Temp\ssm.Zubacid.tmp</s:String>
+	<s:String x:Key="/Default/Environment/ContinuousTesting/Strategy/@EntryValue">RunTests</s:String>
+	<s:String x:Key="/Default/Environment/ContinuousTesting/TriggerMode/@EntryValue">OnSave</s:String>
+	<s:String x:Key="/Default/Environment/ContinuousTesting/PersistentDataLocation/@EntryValue">C:\Users\Christoph\AppData\Local\Temp\JetBrains\ContinuousTesting\0b4842ab-4791-4308-9381-97fe98859216</s:String></wpf:ResourceDictionary>

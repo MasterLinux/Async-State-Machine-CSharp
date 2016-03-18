@@ -1,0 +1,5 @@
+C:\Users\Christoph\Documents\Development\C#\StateMaschine\AsyncStateMachine\AsyncStateMachine\bin\Debug\AsyncStateMachine.dll
+C:\Users\Christoph\Documents\Development\C#\StateMaschine\AsyncStateMachine\AsyncStateMachine\bin\Debug\AsyncStateMachine.pdb
+C:\Users\Christoph\Documents\Development\C#\StateMaschine\AsyncStateMachine\AsyncStateMachine\obj\Debug\AsyncStateMachine.csprojResolveAssemblyReference.cache
+C:\Users\Christoph\Documents\Development\C#\StateMaschine\AsyncStateMachine\AsyncStateMachine\obj\Debug\AsyncStateMachine.dll
+C:\Users\Christoph\Documents\Development\C#\StateMaschine\AsyncStateMachine\AsyncStateMachine\obj\Debug\AsyncStateMachine.pdb

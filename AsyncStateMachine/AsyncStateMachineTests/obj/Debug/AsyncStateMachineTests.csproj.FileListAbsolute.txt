@@ -1,0 +1,9 @@
+C:\Users\Christoph\Documents\Development\C#\StateMaschine\AsyncStateMachine\AsyncStateMachineTests\obj\Debug\AsyncStateMachineTests.csprojResolveAssemblyReference.cache
+C:\Users\Christoph\Documents\Development\C#\StateMaschine\AsyncStateMachine\AsyncStateMachineTests\bin\Debug\AsyncStateMachineTests.dll
+C:\Users\Christoph\Documents\Development\C#\StateMaschine\AsyncStateMachine\AsyncStateMachineTests\bin\Debug\AsyncStateMachineTests.pdb
+C:\Users\Christoph\Documents\Development\C#\StateMaschine\AsyncStateMachine\AsyncStateMachineTests\bin\Debug\AsyncStateMachine.dll
+C:\Users\Christoph\Documents\Development\C#\StateMaschine\AsyncStateMachine\AsyncStateMachineTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Christoph\Documents\Development\C#\StateMaschine\AsyncStateMachine\AsyncStateMachineTests\bin\Debug\AsyncStateMachine.pdb
+C:\Users\Christoph\Documents\Development\C#\StateMaschine\AsyncStateMachine\AsyncStateMachineTests\bin\Debug\de\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\Christoph\Documents\Development\C#\StateMaschine\AsyncStateMachine\AsyncStateMachineTests\obj\Debug\AsyncStateMachineTests.dll
+C:\Users\Christoph\Documents\Development\C#\StateMaschine\AsyncStateMachine\AsyncStateMachineTests\obj\Debug\AsyncStateMachineTests.pdb
